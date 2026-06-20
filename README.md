@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
