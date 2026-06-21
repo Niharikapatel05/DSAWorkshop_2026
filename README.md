@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0125-valid-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
