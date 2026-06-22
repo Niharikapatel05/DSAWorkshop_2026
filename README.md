@@ -66,9 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
