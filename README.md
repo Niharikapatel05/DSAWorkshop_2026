@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
