@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0189-rotate-array) |
+| [0844-backspace-string-compare](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0844-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0844-backspace-string-compare) |
 ## Divide and Conquer
 |  |
 | ------- |
