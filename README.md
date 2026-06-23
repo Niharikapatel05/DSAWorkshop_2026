@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
