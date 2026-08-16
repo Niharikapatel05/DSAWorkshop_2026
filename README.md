@@ -141,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0933-number-of-recent-calls) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
