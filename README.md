@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/1480-running-sum-of-1d-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
