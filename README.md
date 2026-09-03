@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Niharikapatel05/DSAWorkshop_2026/tree/master/0844-backspace-string-compare) |
 ## Linked List
